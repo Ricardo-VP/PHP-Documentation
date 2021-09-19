@@ -67,6 +67,17 @@
                 <h4>Cadena de caracteres</h4>
             </a>
         </li>
+        <li>
+            <a href="catorce_arrays_unidimensionales.php">
+                <h4>Arrays unidimensionales</h4>
+            </a>
+            <a href="catorce_dos_arrays_multidimensionales.php">
+                <h4>Arrays multidimensionales</h4>
+            </a>
+            <a href="catorce_tres_funciones_arrays.php">
+                <h4>Arrays - Funciones</h4>
+            </a>
+        </li>
     </ol>
 </body>
 
