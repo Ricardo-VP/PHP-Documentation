@@ -62,6 +62,11 @@
                 <h4>Ambito de las variables</h4>
             </a>
         </li>
+        <li>
+            <a href="trece_cadena_caracteres.php">
+                <h4>Cadena de caracteres</h4>
+            </a>
+        </li>
     </ol>
 </body>
 
